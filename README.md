@@ -5,3 +5,4 @@ The template contains basic functions of a linked list:
 - delete a node
 - display the list 
 - sort the list 
+- add node to the front of the list
